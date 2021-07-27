@@ -1,0 +1,18 @@
+h5{
+    font-size: 80px;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    color: rgb(10, 243, 224);
+}
+p{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    color: rgb(6, 193, 250);
+}
+.card-body{
+    background-color: rgb(4, 90, 83);
+    float: inline-start;
+    box-shadow: rgb(64, 250, 234) 20px 20px 40px 40px;
+}

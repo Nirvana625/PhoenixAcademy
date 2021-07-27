@@ -1,0 +1,20 @@
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(57, 201, 245);
+    font-size: 50px;
+    font-weight: 100;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(147, 220, 229);
+    font-size: 20px;
+}
+.card{
+    background-color: rgb(5, 61, 71);
+    float: inline-end;
+    box-shadow: rgb(119, 164, 209) 20px 20px 40px 40px;
+    height: 100%;
+}
+/* .body{
+    height: 1400px;
+} */
