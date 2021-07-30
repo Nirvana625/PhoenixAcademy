@@ -1,5 +1,5 @@
 .banner{
-	background-image:url('../../assets/Style2.jpg');
+	background-image:url('../../assets/home 1.jpg');
 	text-align: center;
     color: #fff;
    
@@ -20,7 +20,7 @@
     font-weight: 1000;
     line-height: 150px;
     margin-bottom: 30px;
-	color:rgb(1, 38, 248);
+	color:rgb(255, 255, 255);
 }
 .banner-sub-heading{
 	font-family: 'Libre Baskerville', serif;
@@ -28,7 +28,7 @@
     font-weight: 500;
     line-height: 30px;
     margin-bottom: 50px;
-	color:rgb(45, 0, 245);
+	color:rgb(244, 246, 248);
 }
 
 .btn-banner{
@@ -37,7 +37,7 @@
 	font-weight:700;
 	line-height:1.5;
 	text-align:center;
-	color:rgb(21, 5, 252);
+	color:rgb(4, 20, 252);
 	text-transform:uppercase;
 }
 .text-intro{
@@ -93,7 +93,7 @@ section {
 
 section .section-title {
     text-align: center;
-    color: #080cff;
+    color: #0408fc;
     margin-bottom: 50px;
     text-transform: uppercase;
 }

@@ -8,7 +8,7 @@
 	}
 	h1,h2,h3,h4,h5,h6{color:#323233;text-transform:uppercase;}
 .navbar-brand  span{
-	color: #1e06fc;
+	color: #06f4fc;
 	font-size:25px;font-weight:700;letter-spacing:0.1em;
     font-family: 'Kaushan Script','Helvetica Neue',Helvetica,Arial,cursive;
 }
@@ -28,11 +28,11 @@
     color: #fff;
    font-family: 'Gothic A1', sans-serif;
 }
-.navbar-nav .nav-item .nav-link:hover{color:#1f06fd;}
+.navbar-nav .nav-item .nav-link:hover{color:#06fde8;}
 .navbar-expand-md .navbar-nav .dropdown-menu{
-	border-top:3px solid #1e05fd;
+	border-top:3px solid #05fdfd;
 }
-.dropdown-item:hover{background-color:#0969f8;color:#fff;}
+.dropdown-item:hover{background-color:#09f0f8;color:#fff;}
 nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
     -moz-transition: padding-top .3s,padding-bottom .3s;
     transition: padding-top .3s,padding-bottom .3s;
@@ -47,6 +47,16 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 .body{
     height: 100px;
     margin-top: 10px;
+}
+section {
+    padding: 60px 0;
+}
+
+section .section-title {
+    text-align: center;
+    color: #007b5e;
+    margin-bottom: 50px;
+    text-transform: uppercase;
 }
 #footer {
     background: #0483b6 !important;
